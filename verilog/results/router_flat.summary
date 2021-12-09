@@ -1,0 +1,31 @@
+inputs                          35
+outputs                         26
+latches                        182
+gates                          896
+gates_covered                  576
+nodes_covered                  632
+gates_covered_cand             576
+nodes_covered_cand             632
+inferred_modules                99
+achieved_coverage              688
+module    and2gate            9      50       50       
+module    counter             4      0        8        
+module    decoder24           4      8        8        
+module    decoder38           4      26       26       
+module    decoder416          2      20       20       
+module    mux21               3      10       10       
+module    mux21_oa221         4      52       52       
+module    mux21i              8      16       16       
+module    mux21i_aoi22        11     78       78       
+module    mux21i_aoi221       4      8        8        
+module    mux21i_oai221       1      2        2        
+module    mux31b              2      40       40       
+module    mux31i_oai222       6      60       60       
+module    mux_merged          10     62       62       
+module    nand2gate           7      16       16       
+module    nor2gate            7      36       36       
+module    or2gate             5      44       44       
+module    reg                 8      48       96       
+sat_queries                   3928
+cpu_time                   18.6932
+maxrss                    0.668694

@@ -1,0 +1,119 @@
+install bsim from
+https://github.com/trustworthy-systems-iitk/bsim
+
+install minisat from
+https://github.com/fniksic/minisat/blob/master/minisat/
+
+copy the contents of the minisat to bsim/minisat
+
+* do not copy the folders *
+* copy the files from each individual folder core, mtl, utils, simp *
+
+
+
+
+if any of the following errors occur: follow the steps
+
+
+
+===============================================================================================================================
+
+error: friend declaration of ‘Minisat::Lit mkLit(Minisat::Var, bool)’ specifies default arguments and isn’t a definition [-fpermissive]
+   50 |     friend Lit mkLit(Var var, bool sign = false);
+
+
+how to solve this error:
+
+
+
+update minisat folder from the following link:
+https://github.com/fniksic/minisat/blob/master/minisat/
+
+
+===============================================================================================================================
+
+===============================================================================================================================
+
+In file included from /home/jmn/bsim/minisat/core/Solver.h:27,
+                 from /home/jmn/bsim/minisat/core/Solver.cc:24:
+/home/jmn/bsim/minisat/utils/Options.h:25:10: fatal error: minisat/mtl/IntTypes.h: No such file or directory
+   25 | #include "minisat/mtl/IntTypes.h"
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+In file included from /home/jmn/bsim/minisat/core/Main.cc:28:
+/home/jmn/bsim/minisat/utils/Options.h:25:10: fatal error: minisat/mtl/IntTypes.h: No such file or directory
+   25 | #include "minisat/mtl/IntTypes.h"
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+Compiling: core/Solver.o
+In file included from /home/jmn/bsim/minisat/core/Solver.h:27,
+                 from /home/jmn/bsim/minisat/core/Solver.cc:24:
+/home/jmn/bsim/minisat/utils/Options.h:25:10: fatal error: minisat/mtl/IntTypes.h: No such file or directory
+   25 | #include "minisat/mtl/IntTypes.h"
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make: *** [/home/jmn/bsim/minisat/mtl/template.mk:72: /home/jmn/bsim/minisat/core/Solver.o] Error 1
+
+
+
+
+for this error:
+
+just need to change the path to #include library files in the beginning of each code
+it sucks but needs to be done
+
+===============================================================================================================================
+
+===============================================================================================================================
+
+
+Making dependencies
+In file included from /home/jmn/bsim/minisat/core/Solver.h:28,
+                 from /home/jmn/bsim/minisat/core/Solver.cc:24:
+/home/jmn/bsim/minisat/core/SolverTypes.h:27:10: fatal error: ../mtl/IntMap.h: No such file or directory
+   27 | #include "../mtl/IntMap.h"
+      |          ^~~~~~~~~~~~~~~~~
+compilation terminated.
+In file included from /home/jmn/bsim/minisat/core/Dimacs.h:27,
+                 from /home/jmn/bsim/minisat/core/Main.cc:29:
+/home/jmn/bsim/minisat/core/SolverTypes.h:27:10: fatal error: ../mtl/IntMap.h: No such file or directory
+   27 | #include "../mtl/IntMap.h"
+      |          ^~~~~~~~~~~~~~~~~
+compilation terminated.
+Compiling: core/Solver.o
+In file included from /home/jmn/bsim/minisat/core/Solver.h:28,
+                 from /home/jmn/bsim/minisat/core/Solver.cc:24:
+/home/jmn/bsim/minisat/core/SolverTypes.h:27:10: fatal error: ../mtl/IntMap.h: No such file or directory
+   27 | #include "../mtl/IntMap.h"
+      |          ^~~~~~~~~~~~~~~~~
+compilation terminated.
+make: *** [/home/jmn/bsim/minisat/mtl/template.mk:72: /home/jmn/bsim/minisat/core/Solver.o] Error 1
+
+
+for this error:
+just add the IntMap.h file from 
+https://github.com/fniksic/minisat/blob/master/minisat/
+
+
+===============================================================================================================================
+
+
+===============================================================================================================================
+
+Compiling: core/Solver.o
+In file included from /home/jmn/bsim/minisat/core/SolverTypes.h:27,
+                 from /home/jmn/bsim/minisat/core/Solver.h:28,
+                 from /home/jmn/bsim/minisat/core/Solver.cc:24:
+/home/jmn/bsim/minisat/core/../mtl/IntMap.h:20:10: fatal error: minisat/mtl/Vec.h: No such file or directory
+   20 | #include "minisat/mtl/Vec.h"
+      |          ^~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make: *** [/home/jmn/bsim/minisat/mtl/template.mk:72: /home/jmn/bsim/minisat/core/Solver.o] Error 1
+
+
+change the path for Vec.h to 
+"../mtl/Vec.h"
+
+===============================================================================================================================
+
+

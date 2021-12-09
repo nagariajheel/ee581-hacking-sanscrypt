@@ -1,0 +1,344 @@
+{
+    "words": [
+        {
+            "tool": "bsim",
+            "component": "nor2gate",
+            "instance": "mx214",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "com_count_n10",
+                "com_count_n11",
+                "com_count_n13",
+                "com_count_n15"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "and2gate",
+            "instance": "mx139",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "com_count_n10",
+                "com_count_n12",
+                "com_count_n14",
+                "com_count_n16"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nand2gate",
+            "instance": "mx185",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n114",
+                "n171",
+                "n163",
+                "n166"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nor2gate",
+            "instance": "mx199",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "unknown",
+            "signals": [
+                "n117",
+                "n226",
+                "com_n17",
+                "n46",
+                "fsm0_n19",
+                "fsm0_n18",
+                "fsm0_n20",
+                "n79"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nor2gate",
+            "instance": "mx199",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n117",
+                "n226",
+                "n284",
+                "com_n17",
+                "n46",
+                "fsm0_n19",
+                "fsm0_n18",
+                "fsm0_n20",
+                "n79"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n147",
+                "n327",
+                "n326",
+                "n331"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n197",
+                "n215",
+                "n304",
+                "n224",
+                "n219",
+                "n232",
+                "n151"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n208",
+                "n212",
+                "n207",
+                "n179"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nor2gate",
+            "instance": "mx201",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n221",
+                "n215",
+                "n170",
+                "n50"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n223",
+                "n220",
+                "n222",
+                "n123"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n241",
+                "n234",
+                "n29",
+                "n139",
+                "n231"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nand2gate",
+            "instance": "mx150",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n244",
+                "n246",
+                "n248",
+                "n250",
+                "n240"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "or2gate",
+            "instance": "mx147",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n245",
+                "n247",
+                "n249",
+                "n243"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "and2gate",
+            "instance": "mx134",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n319",
+                "n318",
+                "n58",
+                "n111"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "and2gate",
+            "instance": "mx143",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "unknown",
+            "signals": [
+                "n33",
+                "n38",
+                "n15",
+                "n26"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "and2gate",
+            "instance": "mx143",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n33",
+                "n38",
+                "n15",
+                "n26",
+                "n84"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n333",
+                "n236",
+                "n19",
+                "n19"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "xor2gate",
+            "instance": "mx238",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n347",
+                "n307",
+                "com_n61",
+                "com_n51"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nand2gate",
+            "instance": "mx165",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n393",
+                "n359",
+                "n390",
+                "n397"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n396",
+                "n387",
+                "n305",
+                "n353"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nor2gate",
+            "instance": "mx219",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n43",
+                "n34",
+                "n28",
+                "n86",
+                "n20"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n45",
+                "n45",
+                "n54",
+                "n54",
+                "n65",
+                "n65"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "and2gate",
+            "instance": "mx146",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "n73",
+                "n311",
+                "n312",
+                "n102"
+            ]
+        }
+    ]
+}

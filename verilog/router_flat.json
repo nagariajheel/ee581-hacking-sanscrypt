@@ -1,0 +1,1318 @@
+{
+    "words": [
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n112",
+                "c0nm_b0m_v0m_n112",
+                "c0nm_b0m_v0m_n112",
+                "c0nm_b0m_v0m_n112"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n112",
+                "c0nm_b0m_v0m_n112",
+                "c0nm_b0m_v0m_n124",
+                "c0nm_b0m_v0m_n124"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n124",
+                "c0nm_b0m_v0m_n124",
+                "c0nm_b0m_v0m_n124",
+                "c0nm_b0m_v0m_n124"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21i_aoi22",
+            "instance": "mx31",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n137",
+                "c0nm_b0m_v0m_n137",
+                "c0nm_b0m_v0m_n143",
+                "c0nm_b0m_v0m_n143",
+                "c0nm_b0m_v0m_n185",
+                "c0nm_b0m_v0m_n185",
+                "c0nm_b0m_v0m_n167",
+                "c0nm_b0m_v0m_n167",
+                "c0nm_b0m_v0m_n173",
+                "c0nm_b0m_v0m_n173",
+                "c0nm_b0m_v0m_n179",
+                "c0nm_b0m_v0m_n179",
+                "c0nm_b0m_v0m_n161",
+                "c0nm_b0m_v0m_n161",
+                "c0nm_b0m_v0m_n155",
+                "c0nm_b0m_v0m_n155",
+                "c0nm_b0m_v0m_n149",
+                "c0nm_b0m_v0m_n149",
+                "c0nm_b0m_v0m_n195",
+                "c0nm_b0m_v0m_n195"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n139",
+                "c0nm_b0m_v0m_n132",
+                "c0nm_b0m_v0m_n145",
+                "c0nm_b0m_v0m_n169",
+                "c0nm_b0m_v0m_n188",
+                "c0nm_b0m_v0m_n181",
+                "c0nm_b0m_v0m_n175",
+                "c0nm_b0m_v0m_n163",
+                "c0nm_b0m_v0m_n157",
+                "c0nm_b0m_v0m_n151",
+                "c0nm_b0m_v0m_n27",
+                "c0nm_b0m_v0m_n32"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21i_aoi22",
+            "instance": "mx64",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n170",
+                "c0nm_b0m_v0m_n146",
+                "c0nm_b0m_v0m_n133",
+                "c0nm_b0m_v0m_n140",
+                "c0nm_b0m_v0m_n152",
+                "c0nm_b0m_v0m_n164",
+                "c0nm_b0m_v0m_n158",
+                "c0nm_b0m_v0m_n189",
+                "c0nm_b0m_v0m_n182",
+                "c0nm_b0m_v0m_n176"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21i_aoi22",
+            "instance": "mx53",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n172",
+                "c0nm_b0m_v0m_n126",
+                "c0nm_b0m_v0m_n178",
+                "c0nm_b0m_v0m_n184",
+                "c0nm_b0m_v0m_n117",
+                "c0nm_b0m_v0m_n194",
+                "c0nm_b0m_v0m_n154",
+                "c0nm_b0m_v0m_n160",
+                "c0nm_b0m_v0m_n142",
+                "c0nm_b0m_v0m_n166",
+                "c0nm_b0m_v0m_n136",
+                "c0nm_b0m_v0m_n148"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n200",
+                "c0nm_b0m_v0m_n201",
+                "c0nm_b0m_v0m_n202",
+                "c0nm_b0m_v0m_n199",
+                "c0nm_b0m_v0m_n203",
+                "c0nm_b0m_v0m_n204",
+                "c0nm_b0m_v0m_n205",
+                "c0nm_b0m_v0m_n196",
+                "c0nm_b0m_v0m_n197",
+                "c0nm_b0m_v0m_n198"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux31i_oai222",
+            "instance": "mx102",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n208",
+                "c0nm_b0m_v0m_n209",
+                "c0nm_b0m_v0m_n210",
+                "c0nm_b0m_v0m_n211",
+                "c0nm_b0m_v0m_n212",
+                "c0nm_b0m_v0m_n213",
+                "c0nm_b0m_v0m_n214",
+                "c0nm_b0m_v0m_n215",
+                "c0nm_b0m_v0m_n216",
+                "c0nm_b0m_v0m_n217"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n222",
+                "c0nm_b0m_v0m_n229",
+                "c0nm_b0m_v0m_n228",
+                "c0nm_b0m_v0m_n227",
+                "c0nm_b0m_v0m_n226",
+                "c0nm_b0m_v0m_n225",
+                "c0nm_b0m_v0m_n224",
+                "c0nm_b0m_v0m_n223",
+                "c0nm_b0m_v0m_n221",
+                "c0nm_b0m_v0m_n220"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux31i_oai222",
+            "instance": "mx104",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n232",
+                "c0nm_b0m_v0m_n239",
+                "c0nm_b0m_v0m_n238",
+                "c0nm_b0m_v0m_n237",
+                "c0nm_b0m_v0m_n236",
+                "c0nm_b0m_v0m_n235",
+                "c0nm_b0m_v0m_n234",
+                "c0nm_b0m_v0m_n233",
+                "c0nm_b0m_v0m_n241",
+                "c0nm_b0m_v0m_n240"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n24",
+                "c0nm_b0m_v0m_n106",
+                "c0nm_b0m_v0m_n75",
+                "c0nm_b0m_v0m_n97"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux31i_oai222",
+            "instance": "mx105",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n247",
+                "c0nm_b0m_v0m_n255",
+                "c0nm_b0m_v0m_n252",
+                "c0nm_b0m_v0m_n251",
+                "c0nm_b0m_v0m_n250",
+                "c0nm_b0m_v0m_n249",
+                "c0nm_b0m_v0m_n248",
+                "c0nm_b0m_v0m_n246",
+                "c0nm_b0m_v0m_n245",
+                "c0nm_b0m_v0m_n244"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21_oa221",
+            "instance": "mx207",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n264",
+                "c0nm_r0m_n14",
+                "c0nm_r0m_n8",
+                "c0nm_r0m_n9"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21i_aoi22",
+            "instance": "mx42",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n269",
+                "c0nm_b0m_v0m_n265",
+                "c0nm_b0m_v0m_n266",
+                "c0nm_b0m_v0m_n267",
+                "c0nm_b0m_v0m_n268",
+                "c0nm_b0m_v0m_n276",
+                "c0nm_b0m_v0m_n270",
+                "c0nm_b0m_v0m_n275",
+                "c0nm_b0m_v0m_n274",
+                "c0nm_b0m_v0m_n273",
+                "c0nm_b0m_v0m_n272",
+                "c0nm_b0m_v0m_n271"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21i_aoi22",
+            "instance": "mx42",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "unknown",
+            "signals": [
+                "c0nm_b0m_v0m_n269",
+                "c0nm_b0m_v0m_n268",
+                "c0nm_b0m_v0m_n276",
+                "c0nm_b0m_v0m_n275",
+                "c0nm_b0m_v0m_n271"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21_oa221",
+            "instance": "mx211",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n33",
+                "c0nm_b0m_v0m_n36",
+                "c0nm_b0m_v0m_n69",
+                "c0nm_b0m_v0m_n66",
+                "c0nm_b0m_v0m_n39",
+                "c0nm_b0m_v0m_n42",
+                "c0nm_b0m_v0m_n63",
+                "c0nm_b0m_v0m_n48",
+                "c0nm_b0m_v0m_n45",
+                "c0nm_b0m_v0m_n17"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nor2gate",
+            "instance": "mx354",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n8",
+                "c0nm_b0m_v0m_n119",
+                "c0nm_b0m_v0m_n120",
+                "c0nm_b0m_v0m_n121",
+                "c0nm_b0m_v0m_n128"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_v0m_n80",
+                "c0nm_b0m_v0m_n101",
+                "c0nm_b0m_v0m_n30",
+                "c0nm_b0m_v0m_n123"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "and2gate",
+            "instance": "mx320",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_b0m_wdata_11_",
+                "c0nm_b0m_wdata_8_",
+                "c0nm_b0m_wdata_9_",
+                "c0nm_b0m_wdata_7_",
+                "c0nm_b0m_wdata_6_",
+                "c0nm_b0m_wdata_5_",
+                "c0nm_b0m_wdata_4_",
+                "c0nm_b0m_wdata_3_",
+                "c0nm_b0m_wdata_2_",
+                "c0nm_b0m_wdata_10_"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_headflit[2]",
+                "c0nm_headflit[0]",
+                "c0nm_headflit[1]",
+                "c0nm_headflit[3]",
+                "c0nm_headflit[4]",
+                "c0nm_headflit[5]",
+                "c0nm_headflit[6]",
+                "c0nm_headflit[7]",
+                "c0nm_b0m_headflit_9_",
+                "c0nm_b0m_headflit_8_",
+                "c0nm_b0m_headflit_11_",
+                "c0nm_b0m_headflit_10_"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nor2gate",
+            "instance": "mx356",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0nm_v0m_n13",
+                "c0nm_b0m_n9",
+                "creditout_0",
+                "c0nm_b0m_v0m_n10"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n101",
+                "c0sm_b0m_v0m_n123",
+                "c0sm_b0m_v0m_n80",
+                "c0sm_b0m_v0m_n30"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n106",
+                "c0sm_b0m_v0m_n97",
+                "c0sm_b0m_v0m_n75",
+                "c0sm_b0m_v0m_n24"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n112",
+                "c0sm_b0m_v0m_n112",
+                "c0sm_b0m_v0m_n112",
+                "c0sm_b0m_v0m_n112"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n112",
+                "c0sm_b0m_v0m_n112",
+                "c0sm_b0m_v0m_n124",
+                "c0sm_b0m_v0m_n124"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n124",
+                "c0sm_b0m_v0m_n124",
+                "c0sm_b0m_v0m_n124",
+                "c0sm_b0m_v0m_n124"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21i_aoi22",
+            "instance": "mx66",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n143",
+                "c0sm_b0m_v0m_n143",
+                "c0sm_b0m_v0m_n137",
+                "c0sm_b0m_v0m_n137",
+                "c0sm_b0m_v0m_n149",
+                "c0sm_b0m_v0m_n149",
+                "c0sm_b0m_v0m_n195",
+                "c0sm_b0m_v0m_n195",
+                "c0sm_b0m_v0m_n185",
+                "c0sm_b0m_v0m_n185",
+                "c0sm_b0m_v0m_n179",
+                "c0sm_b0m_v0m_n179",
+                "c0sm_b0m_v0m_n173",
+                "c0sm_b0m_v0m_n173",
+                "c0sm_b0m_v0m_n167",
+                "c0sm_b0m_v0m_n167",
+                "c0sm_b0m_v0m_n161",
+                "c0sm_b0m_v0m_n161",
+                "c0sm_b0m_v0m_n155",
+                "c0sm_b0m_v0m_n155"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21i_aoi22",
+            "instance": "mx99",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n170",
+                "c0sm_b0m_v0m_n133",
+                "c0sm_b0m_v0m_n164",
+                "c0sm_b0m_v0m_n140",
+                "c0sm_b0m_v0m_n158",
+                "c0sm_b0m_v0m_n146",
+                "c0sm_b0m_v0m_n152",
+                "c0sm_b0m_v0m_n189",
+                "c0sm_b0m_v0m_n182",
+                "c0sm_b0m_v0m_n176"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21i_aoi22",
+            "instance": "mx88",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n184",
+                "c0sm_b0m_v0m_n194",
+                "c0sm_b0m_v0m_n142",
+                "c0sm_b0m_v0m_n136",
+                "c0sm_b0m_v0m_n126",
+                "c0sm_b0m_v0m_n117",
+                "c0sm_b0m_v0m_n178",
+                "c0sm_b0m_v0m_n172",
+                "c0sm_b0m_v0m_n166",
+                "c0sm_b0m_v0m_n160",
+                "c0sm_b0m_v0m_n154",
+                "c0sm_b0m_v0m_n148"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nand2gate",
+            "instance": "mx346",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n20",
+                "c0nm_b0m_v0m_n20",
+                "c0sm_b0m_v0m_n81",
+                "c0sm_b0m_v0m_n2",
+                "c0sm_b0m_v0m_n129",
+                "c0sm_b0m_v0m_n102",
+                "c0nm_b0m_v0m_n2",
+                "c0nm_b0m_v0m_n81",
+                "c0nm_b0m_v0m_n102",
+                "c0nm_b0m_v0m_n129",
+                "c0nm_b0m_v0m_n263",
+                "c0sm_b0m_v0m_n263",
+                "s0m_o0nm_n36",
+                "s0m_o0sm_n36"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nand2gate",
+            "instance": "mx346",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "unknown",
+            "signals": [
+                "c0sm_b0m_v0m_n20",
+                "c0nm_b0m_v0m_n20",
+                "s0m_o0nm_n36",
+                "s0m_o0sm_n36"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21i_aoi22",
+            "instance": "mx77",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n272",
+                "c0sm_b0m_v0m_n273",
+                "c0sm_b0m_v0m_n274",
+                "c0sm_b0m_v0m_n271",
+                "c0sm_b0m_v0m_n270",
+                "c0sm_b0m_v0m_n275",
+                "c0sm_b0m_v0m_n269",
+                "c0sm_b0m_v0m_n268",
+                "c0sm_b0m_v0m_n267",
+                "c0sm_b0m_v0m_n276",
+                "c0sm_b0m_v0m_n265",
+                "c0sm_b0m_v0m_n266"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux31i_oai222",
+            "instance": "mx109",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n288",
+                "c0sm_b0m_v0m_n294",
+                "c0sm_b0m_v0m_n293",
+                "c0sm_b0m_v0m_n292",
+                "c0sm_b0m_v0m_n291",
+                "c0sm_b0m_v0m_n290",
+                "c0sm_b0m_v0m_n289",
+                "c0sm_b0m_v0m_n287",
+                "c0sm_b0m_v0m_n286",
+                "c0sm_b0m_v0m_n283"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux31i_oai222",
+            "instance": "mx108",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n301",
+                "c0sm_b0m_v0m_n300",
+                "c0sm_b0m_v0m_n299",
+                "c0sm_b0m_v0m_n298",
+                "c0sm_b0m_v0m_n297",
+                "c0sm_b0m_v0m_n302",
+                "c0sm_b0m_v0m_n305",
+                "c0sm_b0m_v0m_n306",
+                "c0sm_b0m_v0m_n304",
+                "c0sm_b0m_v0m_n303"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n309",
+                "c0sm_b0m_v0m_n310",
+                "c0sm_b0m_v0m_n311",
+                "c0sm_b0m_v0m_n312",
+                "c0sm_b0m_v0m_n313",
+                "c0sm_b0m_v0m_n314",
+                "c0sm_b0m_v0m_n315",
+                "c0sm_b0m_v0m_n316",
+                "c0sm_b0m_v0m_n317",
+                "c0sm_b0m_v0m_n318"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21i_oai221",
+            "instance": "mx244",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n32",
+                "c0sm_b0m_v0m_n151",
+                "c0sm_b0m_v0m_n157",
+                "c0sm_b0m_v0m_n145",
+                "c0sm_b0m_v0m_n175",
+                "c0sm_b0m_v0m_n181",
+                "c0sm_b0m_v0m_n169",
+                "c0sm_b0m_v0m_n188",
+                "c0sm_b0m_v0m_n163",
+                "c0sm_b0m_v0m_n27",
+                "c0sm_b0m_v0m_n139",
+                "c0sm_b0m_v0m_n132"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux31i_oai222",
+            "instance": "mx106",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n321",
+                "c0sm_b0m_v0m_n322",
+                "c0sm_b0m_v0m_n323",
+                "c0sm_b0m_v0m_n324",
+                "c0sm_b0m_v0m_n325",
+                "c0sm_b0m_v0m_n326",
+                "c0sm_b0m_v0m_n327",
+                "c0sm_b0m_v0m_n328",
+                "c0sm_b0m_v0m_n329",
+                "c0sm_b0m_v0m_n330"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21_oa221",
+            "instance": "mx216",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n33",
+                "c0sm_b0m_v0m_n48",
+                "c0sm_b0m_v0m_n17",
+                "c0sm_b0m_v0m_n45",
+                "c0sm_b0m_v0m_n42",
+                "c0sm_b0m_v0m_n63",
+                "c0sm_b0m_v0m_n66",
+                "c0sm_b0m_v0m_n39",
+                "c0sm_b0m_v0m_n69",
+                "c0sm_b0m_v0m_n36"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n334",
+                "c0sm_b0m_v0m_n335",
+                "c0sm_b0m_v0m_n336",
+                "c0sm_b0m_v0m_n333",
+                "c0sm_b0m_v0m_n337",
+                "c0sm_b0m_v0m_n338",
+                "c0sm_b0m_v0m_n339",
+                "c0sm_b0m_v0m_n340",
+                "c0sm_b0m_v0m_n341",
+                "c0sm_b0m_v0m_n342"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nor2gate",
+            "instance": "mx359",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_v0m_n8",
+                "c0sm_b0m_v0m_n119",
+                "c0sm_b0m_v0m_n120",
+                "c0sm_b0m_v0m_n121",
+                "c0sm_b0m_v0m_n128"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "and2gate",
+            "instance": "mx326",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_b0m_wdata_10_",
+                "c0sm_b0m_wdata_9_",
+                "c0sm_b0m_wdata_8_",
+                "c0sm_b0m_wdata_7_",
+                "c0sm_b0m_wdata_6_",
+                "c0sm_b0m_wdata_5_",
+                "c0sm_b0m_wdata_4_",
+                "c0sm_b0m_wdata_3_",
+                "c0sm_b0m_wdata_11_",
+                "c0sm_b0m_wdata_2_"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_headflit[5]",
+                "c0sm_headflit[0]",
+                "c0sm_headflit[1]",
+                "c0sm_headflit[2]",
+                "c0sm_headflit[3]",
+                "c0sm_headflit[4]",
+                "c0sm_headflit[6]",
+                "c0sm_headflit[7]",
+                "c0sm_b0m_headflit_11_",
+                "c0sm_b0m_headflit_10_",
+                "c0sm_b0m_headflit_8_",
+                "c0sm_b0m_headflit_9_"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21_oa221",
+            "instance": "mx212",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_r0m_n14",
+                "c0sm_r0m_n9",
+                "c0sm_r0m_n8",
+                "c0sm_b0m_v0m_n264"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nor2gate",
+            "instance": "mx361",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_v0m_n13",
+                "c0sm_b0m_n9",
+                "creditout_1",
+                "c0sm_b0m_v0m_n10"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nor2gate",
+            "instance": "mx353",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "c0sm_v0m_n8",
+                "c0nm_v0m_n8",
+                "s0m_n9",
+                "s0m_n16",
+                "c0nm_b0m_v0m_n8",
+                "c0sm_b0m_v0m_n8",
+                "s0m_o0nm_n3",
+                "s0m_o0sm_n3",
+                "s0m_m0m_n10",
+                "s0m_m0m_n10",
+                "c0nm_b0m_n9",
+                "c0nm_b0m_v0m_n11",
+                "c0sm_b0m_v0m_n11",
+                "s0m_m1m_n10",
+                "s0m_m1m_n10",
+                "c0sm_b0m_n9",
+                "creditout_0",
+                "creditout_1",
+                "c0sm_b0m_v0m_n10",
+                "c0sm_b0m_v0m_n10",
+                "c0nm_b0m_v0m_n10",
+                "c0nm_b0m_v0m_n10",
+                "c0sm_v0m_n64",
+                "c0nm_v0m_n64",
+                "c0sm_v0m_n61",
+                "c0nm_v0m_n61",
+                "c0sm_v0m_n62",
+                "c0nm_v0m_n62",
+                "s0m_o0nm_n38",
+                "s0m_o0sm_n38"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "flitout_0[6]",
+                "flitout_0[5]",
+                "flitout_0[4]",
+                "flitout_0[3]",
+                "flitout_0[2]",
+                "flitout_0[1]",
+                "flitout_0[11]",
+                "flitout_0[0]",
+                "flitout_0[10]",
+                "flitout_0[7]",
+                "flitout_0[8]",
+                "flitout_0[9]"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21",
+            "instance": "mx10",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "flitout_1[11]",
+                "flitout_1[3]",
+                "flitout_1[1]",
+                "flitout_1[2]",
+                "flitout_1[0]",
+                "flitout_1[10]",
+                "flitout_1[6]",
+                "flitout_1[7]",
+                "flitout_1[8]",
+                "flitout_1[9]",
+                "flitout_1[5]",
+                "flitout_1[4]"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux31b",
+            "instance": "mx101",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "flitout_1[3]",
+                "flitout_1[1]",
+                "flitout_1[2]",
+                "flitout_1[0]",
+                "flitout_1[10]",
+                "flitout_1[6]",
+                "flitout_1[7]",
+                "flitout_1[8]",
+                "flitout_1[9]",
+                "flitout_1[5]",
+                "flitout_1[4]"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux31b",
+            "instance": "mx101",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "unknown",
+            "signals": [
+                "flitout_1[3]",
+                "flitout_1[2]",
+                "flitout_1[10]",
+                "flitout_1[6]",
+                "flitout_1[7]",
+                "flitout_1[8]",
+                "flitout_1[9]",
+                "flitout_1[5]"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "and2gate",
+            "instance": "mx321",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "flitout_switch_0[11]",
+                "flitout_switch_0[6]",
+                "flitout_switch_0[5]",
+                "flitout_switch_0[4]",
+                "flitout_switch_0[3]",
+                "flitout_switch_0[2]",
+                "flitout_switch_0[10]",
+                "flitout_switch_0[9]",
+                "flitout_switch_0[8]",
+                "flitout_switch_0[7]"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux31b",
+            "instance": "mx101",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "input",
+            "signals": [
+                "flitout_switch_0[3]",
+                "flitout_switch_0[1]",
+                "flitout_switch_0[2]",
+                "flitout_switch_0[0]",
+                "flitout_switch_0[10]",
+                "flitout_switch_0[6]",
+                "flitout_switch_0[7]",
+                "flitout_switch_0[8]",
+                "flitout_switch_0[9]",
+                "flitout_switch_0[5]",
+                "flitout_switch_0[4]"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21",
+            "instance": "mx9",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "input",
+            "signals": [
+                "flitout_switch_0[5]",
+                "flitout_switch_0[4]",
+                "flitout_switch_0[3]",
+                "flitout_switch_0[7]",
+                "flitout_switch_0[2]",
+                "flitout_switch_0[8]",
+                "flitout_switch_0[9]",
+                "flitout_switch_0[0]",
+                "flitout_switch_0[10]",
+                "flitout_switch_0[11]",
+                "flitout_switch_0[1]"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "input",
+            "signals": [
+                "flitout_switch_0[6]",
+                "flitout_switch_0[5]",
+                "flitout_switch_0[4]",
+                "flitout_switch_0[3]",
+                "flitout_switch_0[7]",
+                "flitout_switch_0[8]",
+                "flitout_switch_0[9]",
+                "flitout_switch_0[0]",
+                "flitout_switch_0[10]",
+                "flitout_switch_0[2]",
+                "flitout_switch_0[11]",
+                "flitout_switch_0[1]"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux31b",
+            "instance": "mx101",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "input",
+            "signals": [
+                "flitout_switch_1[3]",
+                "flitout_switch_1[1]",
+                "flitout_switch_1[2]",
+                "flitout_switch_1[0]",
+                "flitout_switch_1[10]",
+                "flitout_switch_1[6]",
+                "flitout_switch_1[7]",
+                "flitout_switch_1[8]",
+                "flitout_switch_1[9]",
+                "flitout_switch_1[5]",
+                "flitout_switch_1[4]"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21",
+            "instance": "mx9",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "input",
+            "signals": [
+                "flitout_switch_1[5]",
+                "flitout_switch_1[4]",
+                "flitout_switch_1[3]",
+                "flitout_switch_1[7]",
+                "flitout_switch_1[2]",
+                "flitout_switch_1[8]",
+                "flitout_switch_1[9]",
+                "flitout_switch_1[0]",
+                "flitout_switch_1[10]",
+                "flitout_switch_1[11]",
+                "flitout_switch_1[1]"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "and2gate",
+            "instance": "mx327",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "flitout_switch_1[5]",
+                "flitout_switch_1[9]",
+                "flitout_switch_1[8]",
+                "flitout_switch_1[7]",
+                "flitout_switch_1[6]",
+                "flitout_switch_1[4]",
+                "flitout_switch_1[3]",
+                "flitout_switch_1[2]",
+                "flitout_switch_1[11]",
+                "flitout_switch_1[10]"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "input",
+            "signals": [
+                "flitout_switch_1[6]",
+                "flitout_switch_1[5]",
+                "flitout_switch_1[4]",
+                "flitout_switch_1[3]",
+                "flitout_switch_1[7]",
+                "flitout_switch_1[8]",
+                "flitout_switch_1[9]",
+                "flitout_switch_1[0]",
+                "flitout_switch_1[10]",
+                "flitout_switch_1[2]",
+                "flitout_switch_1[11]",
+                "flitout_switch_1[1]"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "nor2gate",
+            "instance": "mx353",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "unknown",
+            "signals": [
+                "s0m_n9",
+                "s0m_n16",
+                "c0nm_b0m_v0m_n8",
+                "c0sm_b0m_v0m_n8",
+                "s0m_o0nm_n3",
+                "s0m_o0sm_n3",
+                "s0m_m0m_n10",
+                "s0m_m0m_n10",
+                "c0nm_b0m_v0m_n11",
+                "c0sm_b0m_v0m_n11",
+                "s0m_m1m_n10",
+                "s0m_m1m_n10",
+                "creditout_0",
+                "creditout_1",
+                "c0sm_b0m_v0m_n10",
+                "c0sm_b0m_v0m_n10",
+                "c0nm_b0m_v0m_n10",
+                "c0nm_b0m_v0m_n10",
+                "c0sm_v0m_n64",
+                "c0nm_v0m_n64",
+                "c0sm_v0m_n61",
+                "c0nm_v0m_n61",
+                "c0sm_v0m_n62",
+                "c0nm_v0m_n62",
+                "s0m_o0nm_n38",
+                "s0m_o0sm_n38"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "input",
+            "signals": [
+                "x0m__logic0_",
+                "x0m__logic0_",
+                "x0m__logic0_",
+                "x0m__logic0_",
+                "x0m__logic0_",
+                "x0m__logic1_",
+                "x0m__logic0_",
+                "x0m__logic1_",
+                "x0m__logic0_",
+                "x0m__logic0_",
+                "x0m__logic0_",
+                "x0m__logic0_"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux31b",
+            "instance": "mx101",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "input",
+            "signals": [
+                "x0m__logic0_",
+                "x0m__logic1_",
+                "x0m__logic0_",
+                "x0m__logic1_",
+                "x0m__logic0_",
+                "x0m__logic0_",
+                "x0m__logic0_",
+                "x0m__logic0_",
+                "x0m__logic0_",
+                "x0m__logic0_",
+                "x0m__logic0_"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21",
+            "instance": "mx10",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "input",
+            "signals": [
+                "x0m_bx11m_m1m_int01",
+                "x0m_bx3m_m1m_int01",
+                "x0m_bx1m_m1m_int01",
+                "x0m_bx2m_m1m_int01",
+                "x0m_bx0m_m1m_int01",
+                "x0m_bx10m_m1m_int01",
+                "x0m_bx6m_m1m_int01",
+                "x0m_bx7m_m1m_int01",
+                "x0m_bx8m_m1m_int01",
+                "x0m_bx9m_m1m_int01",
+                "x0m_bx5m_m1m_int01",
+                "x0m_bx4m_m1m_int01"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21",
+            "instance": "mx9",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "unknown",
+            "signals": [
+                "x0m_bx4m_m1m_int01",
+                "x0m_bx0m_m1m_int01",
+                "x0m_bx11m_m1m_int01",
+                "x0m_bx1m_m1m_int01"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "mux21",
+            "instance": "mx9",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "x0m_bx5m_m1m_int01",
+                "x0m_bx4m_m1m_int01",
+                "x0m_bx3m_m1m_int01",
+                "x0m_bx7m_m1m_int01",
+                "x0m_bx2m_m1m_int01",
+                "x0m_bx8m_m1m_int01",
+                "x0m_bx9m_m1m_int01",
+                "x0m_bx0m_m1m_int01",
+                "x0m_bx10m_m1m_int01",
+                "x0m_bx11m_m1m_int01",
+                "x0m_bx1m_m1m_int01"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "unknown",
+            "instance": "unknown",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "x0m_bx6m_m0m_int01",
+                "x0m_bx5m_m0m_int01",
+                "x0m_bx4m_m0m_int01",
+                "x0m_bx3m_m0m_int01",
+                "x0m_bx7m_m0m_int01",
+                "x0m_bx8m_m0m_int01",
+                "x0m_bx9m_m0m_int01",
+                "x0m_bx0m_m0m_int01",
+                "x0m_bx10m_m0m_int01",
+                "x0m_bx2m_m0m_int01",
+                "x0m_bx11m_m0m_int01",
+                "x0m_bx1m_m0m_int01"
+            ]
+        },
+        {
+            "tool": "bsim",
+            "component": "or2gate",
+            "instance": "mx335",
+            "ordered": "false",
+            "source": "KCOVER_ANALYSIS",
+            "orientation": "output",
+            "signals": [
+                "x0m_n3",
+                "x0m_n4",
+                "x0m_n5",
+                "x0m_n6",
+                "c0nm_v0m_n1",
+                "c0sm_v0m_n1",
+                "c0sm_b0m_v0m_n1",
+                "c0nm_b0m_v0m_n1",
+                "c0sm_b0m_v0m_n81",
+                "c0sm_b0m_v0m_n2",
+                "c0sm_b0m_v0m_n129",
+                "c0sm_b0m_v0m_n102",
+                "c0nm_b0m_v0m_n2",
+                "c0nm_b0m_v0m_n81",
+                "c0nm_b0m_v0m_n102",
+                "c0nm_b0m_v0m_n129",
+                "c0sm_b0m_v0m_n262",
+                "c0nm_b0m_v0m_n262",
+                "c0nm_b0m_v0m_n263",
+                "c0sm_b0m_v0m_n263"
+            ]
+        }
+    ]
+}
