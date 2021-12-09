@@ -91,7 +91,7 @@ One example run is as follows:
 This command asks bsim to analyze the design in tests/router_flat.v. The 
 output files produced by bsim using this command are:
 
-* results/router_flat.summary : this contains a summary of the inferred
+* results/s27.summary : this contains a summary of the inferred
   components found by bsim.  
 * results/verilog/s27.v and results/verilog/s27.library.v: 
   these two files contain an "abstracted" version of the router design.
