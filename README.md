@@ -86,14 +86,14 @@ Running bsim
 
 One example run is as follows:
 
-    $ ./bsim -o configs/default.xml tests/router_flat.v
+    $ ./bsim -o configs/default.xml tests/s27.v
 
 This command asks bsim to analyze the design in tests/router_flat.v. The 
 output files produced by bsim using this command are:
 
 * results/router_flat.summary : this contains a summary of the inferred
   components found by bsim.  
-* results/verilog/router_flat.v and results/verilog/router_flat.library.v: 
+* results/verilog/s27.v and results/verilog/s27.library.v: 
   these two files contain an "abstracted" version of the router design.
 
 bsim has a lot of options, all of which are specified using the config XML file
